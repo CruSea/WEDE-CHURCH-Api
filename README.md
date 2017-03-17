@@ -1,4 +1,4 @@
-Apigility Skeleton Application
+ WEDE CHURCH API
 ==============================
 
 Requirements
